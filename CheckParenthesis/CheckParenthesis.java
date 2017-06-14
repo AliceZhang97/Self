@@ -4,7 +4,6 @@ public class CheckParenthesis {
 	
 	public boolean checker(String s) {
 		MyStack ms = new MyStack();
-		//boolean returnValue = true;
 		char[] arr = s.toCharArray();
 		
 		for (char c : arr) {
@@ -27,7 +26,6 @@ public class CheckParenthesis {
 		} else {
 			return false;
 		}
-		//return returnValue;
 	}
 	
 	//helper method
