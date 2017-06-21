@@ -1,0 +1,4 @@
+Schedule the number of activities 
+Enter the starting and ending time for each activity
+the interval between two activities has to be at least 1 hour
+count the number of activites that can be held at most
