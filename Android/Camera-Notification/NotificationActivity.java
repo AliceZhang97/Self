@@ -8,10 +8,6 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.widget.ImageView;
 
-/**
- * Created by peter on 6/22/2017.
- */
-
 public class NotificationActivity extends Activity {
 
     private static int RESULT_LOAD_IMAGE = 1;
