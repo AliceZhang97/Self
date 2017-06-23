@@ -10,10 +10,6 @@ import android.support.v4.app.NotificationCompat;
 import android.util.Log;
 import android.widget.Toast;
 
-/**
- * Created by peter on 6/16/2017.
- */
-
 public class CameraReceiver extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {
