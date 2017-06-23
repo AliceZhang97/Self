@@ -1,8 +1,0 @@
-Binary String Matching:
-
-Given 2 binary strings (0 or 1) s1 and s2
-Count the number of times that s1 appears as a substring of s2.
-
-Example:
-s1 = "11"      s2 = "1001110110"
-output should be 3.
