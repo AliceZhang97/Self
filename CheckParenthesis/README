@@ -1,7 +1,0 @@
-Check the balance of parenthesis:
-            () or []
-The maximum tests for each time is 5.
-The longest test cannot exceed 10000 characters.
-For example:
-  If the input is: "(([]()))", then the output would be YES.
-  If the input is: "([)]", then the output would be NO.
