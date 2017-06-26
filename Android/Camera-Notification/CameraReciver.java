@@ -25,8 +25,7 @@ public class CameraReceiver extends BroadcastReceiver {
 
     /* add image to res/drawable */
     private void addNotification(Context ctx) {
-        Bitmap btm = BitmapFactory.decodeResource(ctx.getResources(),
-                R.drawable.image);
+        Bitmap btm = BitmapFactory.decodeFile(path);
         NotificationCompat.Builder mBuilder = new NotificationCompat.Builder(
                 ctx).setSmallIcon(R.drawable.image)
                 .setContentTitle("1 new picture")
