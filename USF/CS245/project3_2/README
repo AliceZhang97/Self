@@ -1,0 +1,9 @@
+Hybrid Sort:
+
+The combination of randomized quick sort and insertion sort.
+
+When the sublist size is less than 20, use the insertion sort instead of quick sort.
+
+The running time for randomized quick sort is between 
+about 1.5 to 2.3 times more than the Comb Sort, depending
+on the size of the list.
