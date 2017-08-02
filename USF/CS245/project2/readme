@@ -1,0 +1,4 @@
+I got SuffixTree.java and SuffixTreeDriver.java work correctly.
+
+For GeneralizedSuffixTree.java, the insert, commonPrefix and toString methods are working correctly,
+I added some private helper methods, but not quite finished the LCS method.
